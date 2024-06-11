@@ -8,3 +8,9 @@ int main()
 
     return 0;
 }
+void abc(){
+	
+	    std::cout << "this is abc swp" << std::endl;
+
+	
+}
